@@ -1,0 +1,1 @@
+{"body":"  SELECT session_id, item_in_session, artist, song_length, song_title\n  FROM sparkify.music_sessions\n  LIMIT 500;","clusterName":"Cluster AllowAllAuthenticator","filename":"script_5.cql","id":"X6VdoDPg7ksmIcQY","keyspace":"sparkify","modified":true,"source":"action"}
